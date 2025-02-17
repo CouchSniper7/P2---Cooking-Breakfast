@@ -6,6 +6,8 @@
 // Description: This program will prompt the user to enter choices for the following questions: coffee(Cream, Dairy, Sugar), bacon(Strips, Canadian, traditional, or Vegan),
 // eggs(scrambled, sunny-side-up, or fried,  over easy, over medium, or over hard), and toast(white or wheat) using nested if statements and output the customers order back
 // to them. The program then compares a predetermined "healthy" breakfast to the customers order and outputs if the breakfast was healthy or not. 
+// AI statement: I searched the internet for a way to ignore case sensitivity inputs from the user in Java (.equalsIgnoreCase(“”)), this will make my program more user 
+// friendly when answering the breakfast questions. I know this is an option for other coding languages so I figured there would be one for Java as well.
 
 import java.util.Scanner;
 import java.time.LocalDateTime;
